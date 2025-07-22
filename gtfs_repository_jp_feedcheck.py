@@ -12,11 +12,11 @@ if __name__ == '__main__':
   #print(dataset)
   
   # json data
-  with open('gtfs_repogitory_jp_feedlist.json', 'w', encoding = 'utf-8') as f:
+  with open('gtfs_repository_jp_feedlist.json', 'w', encoding = 'utf-8') as f:
     json.dump(dataset, f, indent=2, ensure_ascii=False)
   
   # json to csv
   df = pd.json_normalize(dataset)
-  df.to_csv('gtfs_repogitory_jp_feedlist.csv', encoding = 'utf-8')
+  df.to_csv('gtfs_repository_jp_feedlist.csv', encoding = 'utf-8')
   
   print("Finished.")

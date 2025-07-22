@@ -47,8 +47,7 @@ jobs:
           pip install -r requirements.txt
       - name: Run script
         run: |
-          python gtfs_check_zipinfo.py
-          # python gtfs-checkurl-zip.py
+          python gtfs_repository_jp_feedcheck.py
       - name: git settings
         run: |
           git config --global user.name "${{ secrets.SECRET_NAME }}"

@@ -1,1 +1,1 @@
-# gtfs_repogitory_jp_feedcheck
+# gtfs_repository_jp_feedcheck

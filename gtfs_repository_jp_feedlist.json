@@ -3335,7 +3335,7 @@
     "organization_id": "takaokacity",
     "organization_name": "高岡市",
     "organization_pref_id": 99,
-    "organization_web_url": "https://www.city.takaoka.toyama.jp/kotsu/kurashi/kotsu/kokyo/koebus.html",
+    "organization_web_url": "https://www.city.takaoka.toyama.jp/gyosei/gyoseijoho/takaokashinogaiyo/3/1/6451.html",
     "organization_email": "not_set",
     "feed_id": "koueibus",
     "feed_name": "高岡市公営バス",
@@ -7664,10 +7664,10 @@
       "alert_url": "https://bus-vision.jp/realtime/iga_alrt_update_v2.bin",
       "update_interval": 0
     },
-    "last_updated_at": "2025-07-22",
-    "last_published_at": "2025-07-22",
+    "last_updated_at": "2025-07-23",
+    "last_published_at": "2025-07-23",
     "latest_feed_start_date": "2025-04-01",
-    "latest_feed_end_date": "2025-10-22",
+    "latest_feed_end_date": "2025-10-23",
     "feed_is_discontinued": false,
     "feed_discontinued_date": ""
   },
@@ -7692,10 +7692,10 @@
       "alert_url": "https://bus-vision.jp/realtime/shima_alrt_update_v2.bin",
       "update_interval": 0
     },
-    "last_updated_at": "2025-07-22",
-    "last_published_at": "2025-07-22",
+    "last_updated_at": "2025-07-23",
+    "last_published_at": "2025-07-23",
     "latest_feed_start_date": "2025-06-23",
-    "latest_feed_end_date": "2025-09-30",
+    "latest_feed_end_date": "2025-10-16",
     "feed_is_discontinued": false,
     "feed_discontinued_date": ""
   },
@@ -7720,10 +7720,10 @@
       "alert_url": "https://bus-vision.jp/realtime/matsusaka_alrt_update_v2.bin",
       "update_interval": 0
     },
-    "last_updated_at": "2025-07-22",
-    "last_published_at": "2025-07-22",
+    "last_updated_at": "2025-07-23",
+    "last_published_at": "2025-07-23",
     "latest_feed_start_date": "2025-07-01",
-    "latest_feed_end_date": "2025-10-20",
+    "latest_feed_end_date": "2025-10-21",
     "feed_is_discontinued": false,
     "feed_discontinued_date": ""
   },
@@ -7748,10 +7748,10 @@
       "alert_url": "https://bus-vision.jp/realtime/yokkaichi_alrt_update_v2.bin",
       "update_interval": 0
     },
-    "last_updated_at": "2025-07-22",
-    "last_published_at": "2025-07-22",
-    "latest_feed_start_date": "2025-04-01",
-    "latest_feed_end_date": "2025-09-23",
+    "last_updated_at": "2025-07-23",
+    "last_published_at": "2025-07-23",
+    "latest_feed_start_date": "2025-07-22",
+    "latest_feed_end_date": "2025-10-23",
     "feed_is_discontinued": false,
     "feed_discontinued_date": ""
   },
@@ -7776,10 +7776,10 @@
       "alert_url": "https://bus-vision.jp/realtime/kuwana_alrt_update_v2.bin",
       "update_interval": 0
     },
-    "last_updated_at": "2025-07-22",
-    "last_published_at": "2025-07-22",
+    "last_updated_at": "2025-07-23",
+    "last_published_at": "2025-07-23",
     "latest_feed_start_date": "2025-07-14",
-    "latest_feed_end_date": "2025-10-18",
+    "latest_feed_end_date": "2025-10-21",
     "feed_is_discontinued": false,
     "feed_discontinued_date": ""
   },
@@ -7804,10 +7804,10 @@
       "alert_url": "https://bus-vision.jp/realtime/ise_alrt_update_v2.bin",
       "update_interval": 0
     },
-    "last_updated_at": "2025-07-22",
-    "last_published_at": "2025-07-22",
+    "last_updated_at": "2025-07-23",
+    "last_published_at": "2025-07-23",
     "latest_feed_start_date": "2025-05-14",
-    "latest_feed_end_date": "2025-10-22",
+    "latest_feed_end_date": "2025-10-23",
     "feed_is_discontinued": false,
     "feed_discontinued_date": ""
   },

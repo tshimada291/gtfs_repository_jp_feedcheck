@@ -24,11 +24,7 @@ jobs:
   build:
     # The type of runner that the job will run on
     runs-on: ubuntu-latest
-    timeout-minutes: 5
-    
-    environment:
-      name: GH_SECRETS
-      
+    timeout-minutes: 5 
     permissions:
       contents: write
 
@@ -44,14 +40,6 @@ jobs:
           python-version: '3.13'
           # architecture: 'x64'
 
-      # Runs a single command using the runners shell
-      # - name: Run a one-line script
-      #   run: echo Hello, world!
-      # Runs a set of commands using the runners shell
-      # - name: Run a multi-line script
-      #  run: |
-      #    echo Add other actions to build,
-      #    echo test, and deploy your project.
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
@@ -71,3 +59,12 @@ jobs:
             git commit -m "Update csv file"
             git push origin main
           fi
+
+      # Runs a single command using the runners shell
+      # - name: Run a one-line script
+      #   run: echo Hello, world!
+      # Runs a set of commands using the runners shell
+      # - name: Run a multi-line script
+      #  run: |
+      #    echo Add other actions to build,
+      #    echo test, and deploy your project.

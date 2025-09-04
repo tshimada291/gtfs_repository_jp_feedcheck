@@ -748,10 +748,10 @@
       "alert_url": "",
       "update_interval": 0
     },
-    "last_updated_at": "2024-10-17",
-    "last_published_at": "2024-10-17",
-    "latest_feed_start_date": "2024-10-07",
-    "latest_feed_end_date": "2025-09-30",
+    "last_updated_at": "2025-09-04",
+    "last_published_at": "2025-09-04",
+    "latest_feed_start_date": "2025-10-01",
+    "latest_feed_end_date": "2026-09-30",
     "feed_is_discontinued": false,
     "feed_discontinued_date": ""
   },
@@ -5180,6 +5180,34 @@
     "feed_discontinued_date": ""
   },
   {
+    "organization_id": "otakivillage",
+    "organization_name": "王滝村",
+    "organization_pref_id": 99,
+    "organization_web_url": "https://www.vill.otaki.nagano.jp/info/bus.html",
+    "organization_email": "chiikisinkou@kisoji.com",
+    "feed_id": "otaki-village",
+    "feed_name": "王滝村",
+    "feed_pref_id": 20,
+    "feed_license": "CC0 1.0",
+    "feed_license_url": "https://creativecommons.org/publicdomain/zero/1.0/deed.ja",
+    "feed_memo": "",
+    "feed_src_gtfs_current_url": null,
+    "feed_src_gtfs_next_url": null,
+    "feed_src_gtfs_web_url": null,
+    "real_time": {
+      "trip_update_url": "",
+      "vehicle_position_url": "",
+      "alert_url": "",
+      "update_interval": 0
+    },
+    "last_updated_at": "2025-09-04",
+    "last_published_at": "2025-09-04",
+    "latest_feed_start_date": "2025-09-03",
+    "latest_feed_end_date": "2026-09-02",
+    "feed_is_discontinued": false,
+    "feed_discontinued_date": ""
+  },
+  {
     "organization_id": "shinanotown",
     "organization_name": "信濃町",
     "organization_pref_id": 99,
@@ -5704,8 +5732,8 @@
       "alert_url": "",
       "update_interval": 0
     },
-    "last_updated_at": "2025-08-22",
-    "last_published_at": "2025-08-22",
+    "last_updated_at": "2025-09-04",
+    "last_published_at": "2025-09-04",
     "latest_feed_start_date": "2025-09-01",
     "latest_feed_end_date": "2026-09-30",
     "feed_is_discontinued": false,
@@ -6628,10 +6656,10 @@
       "alert_url": "",
       "update_interval": 0
     },
-    "last_updated_at": "2024-11-06",
-    "last_published_at": "2024-11-06",
-    "latest_feed_start_date": "2024-10-24",
-    "latest_feed_end_date": "2025-12-31",
+    "last_updated_at": "2025-09-04",
+    "last_published_at": "2025-09-04",
+    "latest_feed_start_date": "2025-10-01",
+    "latest_feed_end_date": "2026-03-31",
     "feed_is_discontinued": false,
     "feed_discontinued_date": ""
   },
@@ -7748,10 +7776,10 @@
       "alert_url": "https://bus-vision.jp/realtime/iga_alrt_update_v2.bin",
       "update_interval": 0
     },
-    "last_updated_at": "2025-09-03",
-    "last_published_at": "2025-09-03",
+    "last_updated_at": "2025-09-04",
+    "last_published_at": "2025-09-04",
     "latest_feed_start_date": "2025-04-01",
-    "latest_feed_end_date": "2025-12-04",
+    "latest_feed_end_date": "2025-12-05",
     "feed_is_discontinued": false,
     "feed_discontinued_date": ""
   },
@@ -7776,10 +7804,10 @@
       "alert_url": "https://bus-vision.jp/realtime/shima_alrt_update_v2.bin",
       "update_interval": 0
     },
-    "last_updated_at": "2025-09-03",
-    "last_published_at": "2025-09-03",
+    "last_updated_at": "2025-09-04",
+    "last_published_at": "2025-09-04",
     "latest_feed_start_date": "2025-08-13",
-    "latest_feed_end_date": "2025-12-04",
+    "latest_feed_end_date": "2025-12-05",
     "feed_is_discontinued": false,
     "feed_discontinued_date": ""
   },
@@ -7804,10 +7832,10 @@
       "alert_url": "https://bus-vision.jp/realtime/matsusaka_alrt_update_v2.bin",
       "update_interval": 0
     },
-    "last_updated_at": "2025-09-03",
-    "last_published_at": "2025-09-03",
+    "last_updated_at": "2025-09-04",
+    "last_published_at": "2025-09-04",
     "latest_feed_start_date": "2025-07-01",
-    "latest_feed_end_date": "2025-12-04",
+    "latest_feed_end_date": "2025-12-05",
     "feed_is_discontinued": false,
     "feed_discontinued_date": ""
   },
@@ -7832,10 +7860,10 @@
       "alert_url": "https://bus-vision.jp/realtime/yokkaichi_alrt_update_v2.bin",
       "update_interval": 0
     },
-    "last_updated_at": "2025-09-03",
-    "last_published_at": "2025-09-03",
+    "last_updated_at": "2025-09-04",
+    "last_published_at": "2025-09-04",
     "latest_feed_start_date": "2025-07-22",
-    "latest_feed_end_date": "2025-12-04",
+    "latest_feed_end_date": "2025-12-05",
     "feed_is_discontinued": false,
     "feed_discontinued_date": ""
   },
@@ -7860,10 +7888,10 @@
       "alert_url": "https://bus-vision.jp/realtime/kuwana_alrt_update_v2.bin",
       "update_interval": 0
     },
-    "last_updated_at": "2025-09-03",
-    "last_published_at": "2025-09-03",
+    "last_updated_at": "2025-09-04",
+    "last_published_at": "2025-09-04",
     "latest_feed_start_date": "2025-07-14",
-    "latest_feed_end_date": "2025-12-04",
+    "latest_feed_end_date": "2025-12-05",
     "feed_is_discontinued": false,
     "feed_discontinued_date": ""
   },
@@ -7888,10 +7916,10 @@
       "alert_url": "https://bus-vision.jp/realtime/ise_alrt_update_v2.bin",
       "update_interval": 0
     },
-    "last_updated_at": "2025-09-03",
-    "last_published_at": "2025-09-03",
+    "last_updated_at": "2025-09-04",
+    "last_published_at": "2025-09-04",
     "latest_feed_start_date": "2025-05-14",
-    "latest_feed_end_date": "2025-12-04",
+    "latest_feed_end_date": "2025-12-05",
     "feed_is_discontinued": false,
     "feed_discontinued_date": ""
   },
@@ -13600,10 +13628,10 @@
       "alert_url": "https://km.bus-vision.jp/realtime/kumabus_alrt_update.bin",
       "update_interval": 15
     },
-    "last_updated_at": "2025-09-03",
-    "last_published_at": "2025-09-03",
+    "last_updated_at": "2025-09-04",
+    "last_published_at": "2025-09-04",
     "latest_feed_start_date": "2025-08-01",
-    "latest_feed_end_date": "2025-12-05",
+    "latest_feed_end_date": "2025-12-06",
     "feed_is_discontinued": false,
     "feed_discontinued_date": ""
   },
@@ -13656,8 +13684,8 @@
       "alert_url": "https://km.bus-vision.jp/realtime/toshibus_alrt_update.bin",
       "update_interval": 17
     },
-    "last_updated_at": "2025-09-03",
-    "last_published_at": "2025-09-03",
+    "last_updated_at": "2025-09-04",
+    "last_published_at": "2025-09-04",
     "latest_feed_start_date": "2025-08-01",
     "latest_feed_end_date": "2025-12-08",
     "feed_is_discontinued": false,
@@ -13684,10 +13712,10 @@
       "alert_url": "https://km.bus-vision.jp/realtime/dentetsu_alrt_update.bin",
       "update_interval": 15
     },
-    "last_updated_at": "2025-09-03",
-    "last_published_at": "2025-09-03",
+    "last_updated_at": "2025-09-04",
+    "last_published_at": "2025-09-04",
     "latest_feed_start_date": "2025-08-16",
-    "latest_feed_end_date": "2025-12-05",
+    "latest_feed_end_date": "2025-12-06",
     "feed_is_discontinued": false,
     "feed_discontinued_date": ""
   },
@@ -13740,10 +13768,10 @@
       "alert_url": "https://km.bus-vision.jp/realtime/sankobus_alrt_update.bin",
       "update_interval": 15
     },
-    "last_updated_at": "2025-09-03",
-    "last_published_at": "2025-09-03",
+    "last_updated_at": "2025-09-04",
+    "last_published_at": "2025-09-04",
     "latest_feed_start_date": "2025-07-01",
-    "latest_feed_end_date": "2025-12-05",
+    "latest_feed_end_date": "2025-12-06",
     "feed_is_discontinued": false,
     "feed_discontinued_date": ""
   },

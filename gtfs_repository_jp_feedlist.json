@@ -6084,12 +6084,12 @@
     "feed_id": "kikyobus",
     "feed_name": "ききょうバス",
     "feed_pref_id": 21,
-    "feed_license": "CC0 1.0",
-    "feed_license_url": "https://creativecommons.org/publicdomain/zero/1.0/deed.ja",
-    "feed_memo": "not_set",
-    "feed_src_gtfs_current_url": "",
-    "feed_src_gtfs_next_url": "",
-    "feed_src_gtfs_web_url": "",
+    "feed_license": "CC BY 4.0",
+    "feed_license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "feed_memo": "",
+    "feed_src_gtfs_current_url": null,
+    "feed_src_gtfs_next_url": null,
+    "feed_src_gtfs_web_url": null,
     "real_time": {
       "trip_update_url": "",
       "vehicle_position_url": "",
@@ -7804,10 +7804,10 @@
       "alert_url": "https://bus-vision.jp/realtime/iga_alrt_update_v2.bin",
       "update_interval": 0
     },
-    "last_updated_at": "2025-09-07",
-    "last_published_at": "2025-09-07",
+    "last_updated_at": "2025-09-08",
+    "last_published_at": "2025-09-08",
     "latest_feed_start_date": "2025-04-01",
-    "latest_feed_end_date": "2025-12-08",
+    "latest_feed_end_date": "2025-12-09",
     "feed_is_discontinued": false,
     "feed_discontinued_date": ""
   },
@@ -7832,10 +7832,10 @@
       "alert_url": "https://bus-vision.jp/realtime/shima_alrt_update_v2.bin",
       "update_interval": 0
     },
-    "last_updated_at": "2025-09-07",
-    "last_published_at": "2025-09-07",
+    "last_updated_at": "2025-09-08",
+    "last_published_at": "2025-09-08",
     "latest_feed_start_date": "2025-08-13",
-    "latest_feed_end_date": "2025-12-08",
+    "latest_feed_end_date": "2025-12-09",
     "feed_is_discontinued": false,
     "feed_discontinued_date": ""
   },
@@ -7860,10 +7860,10 @@
       "alert_url": "https://bus-vision.jp/realtime/matsusaka_alrt_update_v2.bin",
       "update_interval": 0
     },
-    "last_updated_at": "2025-09-07",
-    "last_published_at": "2025-09-07",
+    "last_updated_at": "2025-09-08",
+    "last_published_at": "2025-09-08",
     "latest_feed_start_date": "2025-07-01",
-    "latest_feed_end_date": "2025-12-08",
+    "latest_feed_end_date": "2025-12-09",
     "feed_is_discontinued": false,
     "feed_discontinued_date": ""
   },
@@ -7888,10 +7888,10 @@
       "alert_url": "https://bus-vision.jp/realtime/yokkaichi_alrt_update_v2.bin",
       "update_interval": 0
     },
-    "last_updated_at": "2025-09-07",
-    "last_published_at": "2025-09-07",
+    "last_updated_at": "2025-09-08",
+    "last_published_at": "2025-09-08",
     "latest_feed_start_date": "2025-07-22",
-    "latest_feed_end_date": "2025-12-08",
+    "latest_feed_end_date": "2025-12-09",
     "feed_is_discontinued": false,
     "feed_discontinued_date": ""
   },
@@ -7916,10 +7916,10 @@
       "alert_url": "https://bus-vision.jp/realtime/kuwana_alrt_update_v2.bin",
       "update_interval": 0
     },
-    "last_updated_at": "2025-09-07",
-    "last_published_at": "2025-09-07",
+    "last_updated_at": "2025-09-08",
+    "last_published_at": "2025-09-08",
     "latest_feed_start_date": "2025-07-14",
-    "latest_feed_end_date": "2025-12-08",
+    "latest_feed_end_date": "2025-12-09",
     "feed_is_discontinued": false,
     "feed_discontinued_date": ""
   },
@@ -7944,10 +7944,10 @@
       "alert_url": "https://bus-vision.jp/realtime/ise_alrt_update_v2.bin",
       "update_interval": 0
     },
-    "last_updated_at": "2025-09-07",
-    "last_published_at": "2025-09-07",
+    "last_updated_at": "2025-09-08",
+    "last_published_at": "2025-09-08",
     "latest_feed_start_date": "2025-05-14",
-    "latest_feed_end_date": "2025-12-08",
+    "latest_feed_end_date": "2025-12-09",
     "feed_is_discontinued": false,
     "feed_discontinued_date": ""
   },
@@ -10923,7 +10923,7 @@
     "organization_id": "yoshinogawacity",
     "organization_name": "吉野川市",
     "organization_pref_id": 99,
-    "organization_web_url": "https://www.city.yoshinogawa.lg.jp/docs/2021030800017/",
+    "organization_web_url": "https://www.city.yoshinogawa.lg.jp/docs/2025030300034/",
     "organization_email": "anshin@yoshinogawa.i-tokushima.jp",
     "feed_id": "yoshinogawacitybus",
     "feed_name": "吉野川市代替バス",
@@ -10940,8 +10940,8 @@
       "alert_url": "",
       "update_interval": 0
     },
-    "last_updated_at": "2025-03-06",
-    "last_published_at": "2025-03-06",
+    "last_updated_at": "2025-09-08",
+    "last_published_at": "2025-09-08",
     "latest_feed_start_date": "2025-03-15",
     "latest_feed_end_date": "2026-03-31",
     "feed_is_discontinued": false,
@@ -13656,10 +13656,10 @@
       "alert_url": "https://km.bus-vision.jp/realtime/kumabus_alrt_update.bin",
       "update_interval": 15
     },
-    "last_updated_at": "2025-09-07",
-    "last_published_at": "2025-09-07",
+    "last_updated_at": "2025-09-08",
+    "last_published_at": "2025-09-08",
     "latest_feed_start_date": "2025-08-01",
-    "latest_feed_end_date": "2025-12-09",
+    "latest_feed_end_date": "2025-12-10",
     "feed_is_discontinued": false,
     "feed_discontinued_date": ""
   },
@@ -13712,10 +13712,10 @@
       "alert_url": "https://km.bus-vision.jp/realtime/toshibus_alrt_update.bin",
       "update_interval": 17
     },
-    "last_updated_at": "2025-09-07",
-    "last_published_at": "2025-09-07",
+    "last_updated_at": "2025-09-08",
+    "last_published_at": "2025-09-08",
     "latest_feed_start_date": "2025-09-06",
-    "latest_feed_end_date": "2025-12-09",
+    "latest_feed_end_date": "2025-12-10",
     "feed_is_discontinued": false,
     "feed_discontinued_date": ""
   },
@@ -13740,10 +13740,10 @@
       "alert_url": "https://km.bus-vision.jp/realtime/dentetsu_alrt_update.bin",
       "update_interval": 15
     },
-    "last_updated_at": "2025-09-07",
-    "last_published_at": "2025-09-07",
+    "last_updated_at": "2025-09-08",
+    "last_published_at": "2025-09-08",
     "latest_feed_start_date": "2025-08-16",
-    "latest_feed_end_date": "2025-12-09",
+    "latest_feed_end_date": "2025-12-10",
     "feed_is_discontinued": false,
     "feed_discontinued_date": ""
   },
@@ -13796,10 +13796,10 @@
       "alert_url": "https://km.bus-vision.jp/realtime/sankobus_alrt_update.bin",
       "update_interval": 15
     },
-    "last_updated_at": "2025-09-07",
-    "last_published_at": "2025-09-07",
+    "last_updated_at": "2025-09-08",
+    "last_published_at": "2025-09-08",
     "latest_feed_start_date": "2025-07-01",
-    "latest_feed_end_date": "2025-12-09",
+    "latest_feed_end_date": "2025-12-10",
     "feed_is_discontinued": false,
     "feed_discontinued_date": ""
   },

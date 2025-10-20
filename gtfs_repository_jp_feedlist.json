@@ -804,9 +804,9 @@
       "alert_url": "",
       "update_interval": 0
     },
-    "last_updated_at": "2025-10-16",
-    "last_published_at": "2025-10-16",
-    "latest_feed_start_date": "2025-10-15",
+    "last_updated_at": "2025-10-20",
+    "last_published_at": "2025-10-20",
+    "latest_feed_start_date": "2025-11-17",
     "latest_feed_end_date": "2026-10-31",
     "feed_is_discontinued": false,
     "feed_discontinued_date": ""
@@ -1140,10 +1140,10 @@
       "alert_url": "",
       "update_interval": 0
     },
-    "last_updated_at": "2025-06-27",
-    "last_published_at": "2025-06-27",
-    "latest_feed_start_date": "2025-07-01",
-    "latest_feed_end_date": "2026-06-30",
+    "last_updated_at": "2025-10-20",
+    "last_published_at": "2025-10-20",
+    "latest_feed_start_date": "2025-10-01",
+    "latest_feed_end_date": "2026-03-31",
     "feed_is_discontinued": false,
     "feed_discontinued_date": ""
   },
@@ -7944,10 +7944,10 @@
       "alert_url": "https://bus-vision.jp/realtime/iga_alrt_update_v2.bin",
       "update_interval": 0
     },
-    "last_updated_at": "2025-10-19",
-    "last_published_at": "2025-10-19",
+    "last_updated_at": "2025-10-20",
+    "last_published_at": "2025-10-20",
     "latest_feed_start_date": "2025-10-01",
-    "latest_feed_end_date": "2026-01-19",
+    "latest_feed_end_date": "2026-01-20",
     "feed_is_discontinued": false,
     "feed_discontinued_date": ""
   },
@@ -7972,10 +7972,10 @@
       "alert_url": "https://bus-vision.jp/realtime/shima_alrt_update_v2.bin",
       "update_interval": 0
     },
-    "last_updated_at": "2025-10-19",
-    "last_published_at": "2025-10-19",
+    "last_updated_at": "2025-10-20",
+    "last_published_at": "2025-10-20",
     "latest_feed_start_date": "2025-10-01",
-    "latest_feed_end_date": "2026-01-19",
+    "latest_feed_end_date": "2026-01-20",
     "feed_is_discontinued": false,
     "feed_discontinued_date": ""
   },
@@ -8000,10 +8000,10 @@
       "alert_url": "https://bus-vision.jp/realtime/matsusaka_alrt_update_v2.bin",
       "update_interval": 0
     },
-    "last_updated_at": "2025-10-19",
-    "last_published_at": "2025-10-19",
+    "last_updated_at": "2025-10-20",
+    "last_published_at": "2025-10-20",
     "latest_feed_start_date": "2025-10-01",
-    "latest_feed_end_date": "2026-01-19",
+    "latest_feed_end_date": "2026-01-20",
     "feed_is_discontinued": false,
     "feed_discontinued_date": ""
   },
@@ -8028,10 +8028,10 @@
       "alert_url": "https://bus-vision.jp/realtime/yokkaichi_alrt_update_v2.bin",
       "update_interval": 0
     },
-    "last_updated_at": "2025-10-19",
-    "last_published_at": "2025-10-19",
+    "last_updated_at": "2025-10-20",
+    "last_published_at": "2025-10-20",
     "latest_feed_start_date": "2025-10-01",
-    "latest_feed_end_date": "2026-01-19",
+    "latest_feed_end_date": "2026-01-20",
     "feed_is_discontinued": false,
     "feed_discontinued_date": ""
   },
@@ -8056,10 +8056,10 @@
       "alert_url": "https://bus-vision.jp/realtime/kuwana_alrt_update_v2.bin",
       "update_interval": 0
     },
-    "last_updated_at": "2025-10-19",
-    "last_published_at": "2025-10-19",
+    "last_updated_at": "2025-10-20",
+    "last_published_at": "2025-10-20",
     "latest_feed_start_date": "2025-10-18",
-    "latest_feed_end_date": "2026-01-19",
+    "latest_feed_end_date": "2026-01-20",
     "feed_is_discontinued": false,
     "feed_discontinued_date": ""
   },
@@ -8084,10 +8084,10 @@
       "alert_url": "https://bus-vision.jp/realtime/ise_alrt_update_v2.bin",
       "update_interval": 0
     },
-    "last_updated_at": "2025-10-19",
-    "last_published_at": "2025-10-19",
+    "last_updated_at": "2025-10-20",
+    "last_published_at": "2025-10-20",
     "latest_feed_start_date": "2025-10-01",
-    "latest_feed_end_date": "2026-01-19",
+    "latest_feed_end_date": "2026-01-20",
     "feed_is_discontinued": false,
     "feed_discontinued_date": ""
   },
@@ -10408,10 +10408,10 @@
       "alert_url": "",
       "update_interval": 0
     },
-    "last_updated_at": "2025-06-03",
-    "last_published_at": "2025-06-03",
-    "latest_feed_start_date": "2025-06-03",
-    "latest_feed_end_date": "2026-06-02",
+    "last_updated_at": "2025-10-20",
+    "last_published_at": "2025-10-20",
+    "latest_feed_start_date": "2025-10-20",
+    "latest_feed_end_date": "2026-10-19",
     "feed_is_discontinued": false,
     "feed_discontinued_date": ""
   },
@@ -11724,10 +11724,10 @@
       "alert_url": "",
       "update_interval": 0
     },
-    "last_updated_at": "2025-09-19",
-    "last_published_at": "2025-09-19",
-    "latest_feed_start_date": "2025-10-01",
-    "latest_feed_end_date": "2025-10-31",
+    "last_updated_at": "2025-10-20",
+    "last_published_at": "2025-10-20",
+    "latest_feed_start_date": "2025-11-01",
+    "latest_feed_end_date": "2026-03-31",
     "feed_is_discontinued": false,
     "feed_discontinued_date": ""
   },
@@ -12060,10 +12060,10 @@
       "alert_url": "",
       "update_interval": 0
     },
-    "last_updated_at": "2024-12-02",
-    "last_published_at": "2024-12-02",
-    "latest_feed_start_date": "2024-11-01",
-    "latest_feed_end_date": "2025-11-01",
+    "last_updated_at": "2025-10-20",
+    "last_published_at": "2025-10-20",
+    "latest_feed_start_date": "2025-10-01",
+    "latest_feed_end_date": "2026-11-02",
     "feed_is_discontinued": false,
     "feed_discontinued_date": ""
   },
@@ -12368,10 +12368,10 @@
       "alert_url": "",
       "update_interval": 0
     },
-    "last_updated_at": "2025-10-17",
-    "last_published_at": "2025-10-17",
-    "latest_feed_start_date": "2025-10-17",
-    "latest_feed_end_date": "2026-01-02",
+    "last_updated_at": "2025-10-20",
+    "last_published_at": "2025-10-20",
+    "latest_feed_start_date": "2025-11-01",
+    "latest_feed_end_date": "2026-03-31",
     "feed_is_discontinued": false,
     "feed_discontinued_date": ""
   },
@@ -12844,10 +12844,10 @@
       "alert_url": "",
       "update_interval": 0
     },
-    "last_updated_at": "2025-06-09",
-    "last_published_at": "2025-06-09",
-    "latest_feed_start_date": "2025-04-01",
-    "latest_feed_end_date": "2026-03-31",
+    "last_updated_at": "2025-10-20",
+    "last_published_at": "2025-10-20",
+    "latest_feed_start_date": "2025-11-22",
+    "latest_feed_end_date": "2026-11-21",
     "feed_is_discontinued": false,
     "feed_discontinued_date": ""
   },
@@ -13852,10 +13852,10 @@
       "alert_url": "https://km.bus-vision.jp/realtime/kumabus_alrt_update.bin",
       "update_interval": 15
     },
-    "last_updated_at": "2025-10-19",
-    "last_published_at": "2025-10-19",
+    "last_updated_at": "2025-10-20",
+    "last_published_at": "2025-10-20",
     "latest_feed_start_date": "2025-10-01",
-    "latest_feed_end_date": "2026-01-20",
+    "latest_feed_end_date": "2026-01-21",
     "feed_is_discontinued": false,
     "feed_discontinued_date": ""
   },
@@ -13908,10 +13908,10 @@
       "alert_url": "https://km.bus-vision.jp/realtime/toshibus_alrt_update.bin",
       "update_interval": 17
     },
-    "last_updated_at": "2025-10-19",
-    "last_published_at": "2025-10-19",
+    "last_updated_at": "2025-10-20",
+    "last_published_at": "2025-10-20",
     "latest_feed_start_date": "2025-10-01",
-    "latest_feed_end_date": "2026-01-20",
+    "latest_feed_end_date": "2026-01-21",
     "feed_is_discontinued": false,
     "feed_discontinued_date": ""
   },
@@ -13936,10 +13936,10 @@
       "alert_url": "https://km.bus-vision.jp/realtime/dentetsu_alrt_update.bin",
       "update_interval": 15
     },
-    "last_updated_at": "2025-10-19",
-    "last_published_at": "2025-10-19",
+    "last_updated_at": "2025-10-20",
+    "last_published_at": "2025-10-20",
     "latest_feed_start_date": "2025-10-10",
-    "latest_feed_end_date": "2026-01-20",
+    "latest_feed_end_date": "2026-01-21",
     "feed_is_discontinued": false,
     "feed_discontinued_date": ""
   },
@@ -13992,10 +13992,10 @@
       "alert_url": "https://km.bus-vision.jp/realtime/sankobus_alrt_update.bin",
       "update_interval": 15
     },
-    "last_updated_at": "2025-10-19",
-    "last_published_at": "2025-10-19",
+    "last_updated_at": "2025-10-20",
+    "last_published_at": "2025-10-20",
     "latest_feed_start_date": "2025-10-03",
-    "latest_feed_end_date": "2026-01-20",
+    "latest_feed_end_date": "2026-01-21",
     "feed_is_discontinued": false,
     "feed_discontinued_date": ""
   },

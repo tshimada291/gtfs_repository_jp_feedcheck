@@ -6600,8 +6600,8 @@
       "alert_url": "",
       "update_interval": 0
     },
-    "last_updated_at": "2026-03-24",
-    "last_published_at": "2026-03-24",
+    "last_updated_at": "2026-04-07",
+    "last_published_at": "2026-04-07",
     "latest_feed_start_date": "2026-04-01",
     "latest_feed_end_date": "2027-03-31",
     "feed_is_discontinued": false,
@@ -9008,10 +9008,10 @@
       "alert_url": "https://bus-vision.jp/realtime/iga_alrt_update_v2.bin",
       "update_interval": 0
     },
-    "last_updated_at": "2026-04-06",
-    "last_published_at": "2026-04-06",
+    "last_updated_at": "2026-04-07",
+    "last_published_at": "2026-04-07",
     "latest_feed_start_date": "2026-04-01",
-    "latest_feed_end_date": "2026-07-07",
+    "latest_feed_end_date": "2026-07-08",
     "feed_is_discontinued": false,
     "feed_discontinued_date": ""
   },
@@ -9036,10 +9036,10 @@
       "alert_url": "https://bus-vision.jp/realtime/shima_alrt_update_v2.bin",
       "update_interval": 0
     },
-    "last_updated_at": "2026-04-06",
-    "last_published_at": "2026-04-06",
+    "last_updated_at": "2026-04-07",
+    "last_published_at": "2026-04-07",
     "latest_feed_start_date": "2026-04-04",
-    "latest_feed_end_date": "2026-07-07",
+    "latest_feed_end_date": "2026-07-08",
     "feed_is_discontinued": false,
     "feed_discontinued_date": ""
   },
@@ -9064,10 +9064,10 @@
       "alert_url": "https://bus-vision.jp/realtime/matsusaka_alrt_update_v2.bin",
       "update_interval": 0
     },
-    "last_updated_at": "2026-04-06",
-    "last_published_at": "2026-04-06",
+    "last_updated_at": "2026-04-07",
+    "last_published_at": "2026-04-07",
     "latest_feed_start_date": "2026-04-01",
-    "latest_feed_end_date": "2026-07-07",
+    "latest_feed_end_date": "2026-07-08",
     "feed_is_discontinued": false,
     "feed_discontinued_date": ""
   },
@@ -9092,10 +9092,10 @@
       "alert_url": "https://bus-vision.jp/realtime/yokkaichi_alrt_update_v2.bin",
       "update_interval": 0
     },
-    "last_updated_at": "2026-04-06",
-    "last_published_at": "2026-04-06",
+    "last_updated_at": "2026-04-07",
+    "last_published_at": "2026-04-07",
     "latest_feed_start_date": "2026-04-01",
-    "latest_feed_end_date": "2026-07-07",
+    "latest_feed_end_date": "2026-07-08",
     "feed_is_discontinued": false,
     "feed_discontinued_date": ""
   },
@@ -9120,10 +9120,10 @@
       "alert_url": "https://bus-vision.jp/realtime/kuwana_alrt_update_v2.bin",
       "update_interval": 0
     },
-    "last_updated_at": "2026-04-06",
-    "last_published_at": "2026-04-06",
+    "last_updated_at": "2026-04-07",
+    "last_published_at": "2026-04-07",
     "latest_feed_start_date": "2026-04-01",
-    "latest_feed_end_date": "2026-07-07",
+    "latest_feed_end_date": "2026-07-08",
     "feed_is_discontinued": false,
     "feed_discontinued_date": ""
   },
@@ -9148,10 +9148,10 @@
       "alert_url": "https://bus-vision.jp/realtime/ise_alrt_update_v2.bin",
       "update_interval": 0
     },
-    "last_updated_at": "2026-04-06",
-    "last_published_at": "2026-04-06",
+    "last_updated_at": "2026-04-07",
+    "last_published_at": "2026-04-07",
     "latest_feed_start_date": "2026-04-01",
-    "latest_feed_end_date": "2026-07-07",
+    "latest_feed_end_date": "2026-07-08",
     "feed_is_discontinued": false,
     "feed_discontinued_date": ""
   },
@@ -11136,10 +11136,10 @@
       "alert_url": "",
       "update_interval": 0
     },
-    "last_updated_at": "2024-11-19",
-    "last_published_at": "2024-11-19",
-    "latest_feed_start_date": "2024-11-18",
-    "latest_feed_end_date": "2026-03-31",
+    "last_updated_at": "2026-04-07",
+    "last_published_at": "2026-04-07",
+    "latest_feed_start_date": "2026-04-07",
+    "latest_feed_end_date": "2027-03-31",
     "feed_is_discontinued": false,
     "feed_discontinued_date": ""
   },
@@ -12452,8 +12452,8 @@
       "alert_url": "",
       "update_interval": 0
     },
-    "last_updated_at": "2026-04-01",
-    "last_published_at": "2026-04-01",
+    "last_updated_at": "2026-04-07",
+    "last_published_at": "2026-04-07",
     "latest_feed_start_date": "2026-06-01",
     "latest_feed_end_date": "2027-05-31",
     "feed_is_discontinued": false,
@@ -12900,10 +12900,10 @@
       "alert_url": "",
       "update_interval": 0
     },
-    "last_updated_at": "2026-03-30",
-    "last_published_at": "2026-03-30",
-    "latest_feed_start_date": "2026-04-01",
-    "latest_feed_end_date": "2026-04-18",
+    "last_updated_at": "2026-04-07",
+    "last_published_at": "2026-04-07",
+    "latest_feed_start_date": "2026-04-17",
+    "latest_feed_end_date": "2026-07-05",
     "feed_is_discontinued": false,
     "feed_discontinued_date": ""
   },
@@ -14112,6 +14112,34 @@
     "feed_discontinued_date": ""
   },
   {
+    "organization_id": "fukuokacity",
+    "organization_name": "福岡市",
+    "organization_pref_id": 99,
+    "organization_web_url": "https://www.city.fukuoka.lg.jp/jutaku-toshi/chiikikotsu/machi/imajuku-meinohama.html",
+    "organization_email": "remilab-staff@is.kyusan-u.ac.jp",
+    "feed_id": "ImajukuMeinohamaLine",
+    "feed_name": "今宿姪浜線乗合バス",
+    "feed_pref_id": 40,
+    "feed_license": "CC BY 4.0",
+    "feed_license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "feed_memo": "not_set",
+    "feed_src_gtfs_current_url": "",
+    "feed_src_gtfs_next_url": "",
+    "feed_src_gtfs_web_url": "",
+    "real_time": {
+      "trip_update_url": "",
+      "vehicle_position_url": "",
+      "alert_url": "",
+      "update_interval": 0
+    },
+    "last_updated_at": "2026-04-07",
+    "last_published_at": "2026-04-07",
+    "latest_feed_start_date": "2025-04-01",
+    "latest_feed_end_date": "2027-03-31",
+    "feed_is_discontinued": false,
+    "feed_discontinued_date": ""
+  },
+  {
     "organization_id": "fukutsucity",
     "organization_name": "福津市",
     "organization_pref_id": 99,
@@ -14868,6 +14896,34 @@
     "feed_discontinued_date": ""
   },
   {
+    "organization_id": "taiyo-koutu",
+    "organization_name": "太陽交通株式会社",
+    "organization_pref_id": 99,
+    "organization_web_url": "http://www.taiyo-koutu.co.jp/bus/",
+    "organization_email": "remilab-staff@is.kyusan-u.ac.jp",
+    "feed_id": "taiyo-koutu",
+    "feed_name": "太陽交通株式会社",
+    "feed_pref_id": 40,
+    "feed_license": "CC BY 4.0",
+    "feed_license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "feed_memo": "",
+    "feed_src_gtfs_current_url": null,
+    "feed_src_gtfs_next_url": null,
+    "feed_src_gtfs_web_url": null,
+    "real_time": {
+      "trip_update_url": "",
+      "vehicle_position_url": "",
+      "alert_url": "",
+      "update_interval": 0
+    },
+    "last_updated_at": "2026-04-07",
+    "last_published_at": "2026-04-07",
+    "latest_feed_start_date": "2026-04-01",
+    "latest_feed_end_date": "2027-03-31",
+    "feed_is_discontinued": false,
+    "feed_discontinued_date": ""
+  },
+  {
     "organization_id": "yanagawacity",
     "organization_name": "柳川市",
     "organization_pref_id": 99,
@@ -14972,10 +15028,10 @@
       "alert_url": "https://km.bus-vision.jp/realtime/kumabus_alrt_update.bin",
       "update_interval": 15
     },
-    "last_updated_at": "2026-04-06",
-    "last_published_at": "2026-04-06",
+    "last_updated_at": "2026-04-07",
+    "last_published_at": "2026-04-07",
     "latest_feed_start_date": "2026-04-01",
-    "latest_feed_end_date": "2026-07-08",
+    "latest_feed_end_date": "2026-07-09",
     "feed_is_discontinued": false,
     "feed_discontinued_date": ""
   },
@@ -15028,10 +15084,10 @@
       "alert_url": "https://km.bus-vision.jp/realtime/toshibus_alrt_update.bin",
       "update_interval": 17
     },
-    "last_updated_at": "2026-04-06",
-    "last_published_at": "2026-04-06",
-    "latest_feed_start_date": "2026-04-01",
-    "latest_feed_end_date": "2026-07-08",
+    "last_updated_at": "2026-04-07",
+    "last_published_at": "2026-04-07",
+    "latest_feed_start_date": "2026-04-07",
+    "latest_feed_end_date": "2026-07-09",
     "feed_is_discontinued": false,
     "feed_discontinued_date": ""
   },
@@ -15056,10 +15112,10 @@
       "alert_url": "https://km.bus-vision.jp/realtime/dentetsu_alrt_update.bin",
       "update_interval": 15
     },
-    "last_updated_at": "2026-04-06",
-    "last_published_at": "2026-04-06",
+    "last_updated_at": "2026-04-07",
+    "last_published_at": "2026-04-07",
     "latest_feed_start_date": "2026-03-14",
-    "latest_feed_end_date": "2026-07-08",
+    "latest_feed_end_date": "2026-07-09",
     "feed_is_discontinued": false,
     "feed_discontinued_date": ""
   },
@@ -15112,10 +15168,10 @@
       "alert_url": "https://km.bus-vision.jp/realtime/sankobus_alrt_update.bin",
       "update_interval": 15
     },
-    "last_updated_at": "2026-04-06",
-    "last_published_at": "2026-04-06",
+    "last_updated_at": "2026-04-07",
+    "last_published_at": "2026-04-07",
     "latest_feed_start_date": "2026-04-01",
-    "latest_feed_end_date": "2026-07-08",
+    "latest_feed_end_date": "2026-07-09",
     "feed_is_discontinued": false,
     "feed_discontinued_date": ""
   },

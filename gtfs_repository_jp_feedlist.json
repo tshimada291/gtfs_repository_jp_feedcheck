@@ -4500,10 +4500,10 @@
       "alert_url": "",
       "update_interval": 0
     },
-    "last_updated_at": "2026-03-17",
-    "last_published_at": "2026-03-17",
-    "latest_feed_start_date": "2026-04-01",
-    "latest_feed_end_date": "2027-03-31",
+    "last_updated_at": "2026-08-14",
+    "last_published_at": "2026-08-14",
+    "latest_feed_start_date": "2026-09-01",
+    "latest_feed_end_date": "2027-08-31",
     "feed_is_discontinued": false,
     "feed_discontinued_date": ""
   },
@@ -8120,34 +8120,6 @@
     "feed_discontinued_date": ""
   },
   {
-    "organization_id": "hamabus",
-    "organization_name": "浜松バス株式会社",
-    "organization_pref_id": 99,
-    "organization_web_url": "https://www.hamabus.co.jp/",
-    "organization_email": "hamabus-noriai@bz04.plala.or.jp",
-    "feed_id": "iwata_seikatsubus",
-    "feed_name": "磐田市生活バス路線",
-    "feed_pref_id": 22,
-    "feed_license": "CC BY 4.0",
-    "feed_license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
-    "feed_memo": "蟹町・掛塚発、とつか・豊田町駅経由磐田駅行。蟹町・掛塚発、千手堂経由磐田駅行（朝7時台のみ磐田北校行き）。日曜、祭日運休。",
-    "feed_src_gtfs_current_url": null,
-    "feed_src_gtfs_next_url": null,
-    "feed_src_gtfs_web_url": null,
-    "real_time": {
-      "trip_update_url": "",
-      "vehicle_position_url": "",
-      "alert_url": "",
-      "update_interval": 0
-    },
-    "last_updated_at": "2025-06-15",
-    "last_published_at": "2025-06-15",
-    "latest_feed_start_date": "2025-04-01",
-    "latest_feed_end_date": "2026-12-31",
-    "feed_is_discontinued": false,
-    "feed_discontinued_date": ""
-  },
-  {
     "organization_id": "kakegawacity",
     "organization_name": "掛川市",
     "organization_pref_id": 99,
@@ -8756,9 +8728,9 @@
       "alert_url": "",
       "update_interval": 0
     },
-    "last_updated_at": "2026-07-21",
-    "last_published_at": "2026-07-21",
-    "latest_feed_start_date": "2026-08-01",
+    "last_updated_at": "2026-08-14",
+    "last_published_at": "2026-08-14",
+    "latest_feed_start_date": "2026-09-01",
     "latest_feed_end_date": "2027-03-31",
     "feed_is_discontinued": false,
     "feed_discontinued_date": ""
@@ -9764,10 +9736,10 @@
       "alert_url": "https://bus-vision.jp/realtime/iga_alrt_update_v2.bin",
       "update_interval": 0
     },
-    "last_updated_at": "2026-08-13",
-    "last_published_at": "2026-08-13",
+    "last_updated_at": "2026-08-14",
+    "last_published_at": "2026-08-14",
     "latest_feed_start_date": "2026-04-01",
-    "latest_feed_end_date": "2026-11-13",
+    "latest_feed_end_date": "2026-11-14",
     "feed_is_discontinued": false,
     "feed_discontinued_date": ""
   },
@@ -9792,10 +9764,10 @@
       "alert_url": "https://bus-vision.jp/realtime/shima_alrt_update_v2.bin",
       "update_interval": 0
     },
-    "last_updated_at": "2026-08-13",
-    "last_published_at": "2026-08-13",
+    "last_updated_at": "2026-08-14",
+    "last_published_at": "2026-08-14",
     "latest_feed_start_date": "2026-04-25",
-    "latest_feed_end_date": "2026-11-13",
+    "latest_feed_end_date": "2026-11-14",
     "feed_is_discontinued": false,
     "feed_discontinued_date": ""
   },
@@ -9820,10 +9792,10 @@
       "alert_url": "https://bus-vision.jp/realtime/matsusaka_alrt_update_v2.bin",
       "update_interval": 0
     },
-    "last_updated_at": "2026-08-13",
-    "last_published_at": "2026-08-13",
+    "last_updated_at": "2026-08-14",
+    "last_published_at": "2026-08-14",
     "latest_feed_start_date": "2026-06-01",
-    "latest_feed_end_date": "2026-11-13",
+    "latest_feed_end_date": "2026-11-14",
     "feed_is_discontinued": false,
     "feed_discontinued_date": ""
   },
@@ -9848,10 +9820,10 @@
       "alert_url": "https://bus-vision.jp/realtime/yokkaichi_alrt_update_v2.bin",
       "update_interval": 0
     },
-    "last_updated_at": "2026-08-13",
-    "last_published_at": "2026-08-13",
+    "last_updated_at": "2026-08-14",
+    "last_published_at": "2026-08-14",
     "latest_feed_start_date": "2026-04-01",
-    "latest_feed_end_date": "2026-11-13",
+    "latest_feed_end_date": "2026-11-14",
     "feed_is_discontinued": false,
     "feed_discontinued_date": ""
   },
@@ -9876,10 +9848,10 @@
       "alert_url": "https://bus-vision.jp/realtime/kuwana_alrt_update_v2.bin",
       "update_interval": 0
     },
-    "last_updated_at": "2026-08-13",
-    "last_published_at": "2026-08-13",
+    "last_updated_at": "2026-08-14",
+    "last_published_at": "2026-08-14",
     "latest_feed_start_date": "2026-07-11",
-    "latest_feed_end_date": "2026-11-13",
+    "latest_feed_end_date": "2026-11-14",
     "feed_is_discontinued": false,
     "feed_discontinued_date": ""
   },
@@ -9904,10 +9876,10 @@
       "alert_url": "https://bus-vision.jp/realtime/ise_alrt_update_v2.bin",
       "update_interval": 0
     },
-    "last_updated_at": "2026-08-13",
-    "last_published_at": "2026-08-13",
+    "last_updated_at": "2026-08-14",
+    "last_published_at": "2026-08-14",
     "latest_feed_start_date": "2026-04-07",
-    "latest_feed_end_date": "2026-11-13",
+    "latest_feed_end_date": "2026-11-14",
     "feed_is_discontinued": false,
     "feed_discontinued_date": ""
   },
@@ -15980,10 +15952,10 @@
       "alert_url": "https://km.bus-vision.jp/realtime/kumabus_alrt_update.bin",
       "update_interval": 15
     },
-    "last_updated_at": "2026-08-13",
-    "last_published_at": "2026-08-13",
+    "last_updated_at": "2026-08-14",
+    "last_published_at": "2026-08-14",
     "latest_feed_start_date": "2026-07-24",
-    "latest_feed_end_date": "2026-11-14",
+    "latest_feed_end_date": "2026-11-15",
     "feed_is_discontinued": false,
     "feed_discontinued_date": ""
   },
@@ -16036,10 +16008,10 @@
       "alert_url": "https://km.bus-vision.jp/realtime/toshibus_alrt_update.bin",
       "update_interval": 17
     },
-    "last_updated_at": "2026-08-13",
-    "last_published_at": "2026-08-13",
+    "last_updated_at": "2026-08-14",
+    "last_published_at": "2026-08-14",
     "latest_feed_start_date": "2026-06-06",
-    "latest_feed_end_date": "2026-11-14",
+    "latest_feed_end_date": "2026-11-15",
     "feed_is_discontinued": false,
     "feed_discontinued_date": ""
   },
@@ -16064,8 +16036,8 @@
       "alert_url": "https://km.bus-vision.jp/realtime/dentetsu_alrt_update.bin",
       "update_interval": 15
     },
-    "last_updated_at": "2026-08-13",
-    "last_published_at": "2026-08-13",
+    "last_updated_at": "2026-08-14",
+    "last_published_at": "2026-08-14",
     "latest_feed_start_date": "2026-08-13",
     "latest_feed_end_date": "2026-11-16",
     "feed_is_discontinued": false,
@@ -16120,10 +16092,10 @@
       "alert_url": "https://km.bus-vision.jp/realtime/sankobus_alrt_update.bin",
       "update_interval": 15
     },
-    "last_updated_at": "2026-08-13",
-    "last_published_at": "2026-08-13",
+    "last_updated_at": "2026-08-14",
+    "last_published_at": "2026-08-14",
     "latest_feed_start_date": "2026-08-13",
-    "latest_feed_end_date": "2026-11-14",
+    "latest_feed_end_date": "2026-11-15",
     "feed_is_discontinued": false,
     "feed_discontinued_date": ""
   },

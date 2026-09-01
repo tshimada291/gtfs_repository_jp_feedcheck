@@ -13488,10 +13488,10 @@
       "alert_url": "",
       "update_interval": 0
     },
-    "last_updated_at": "2026-04-09",
-    "last_published_at": "2026-04-09",
-    "latest_feed_start_date": "2026-04-01",
-    "latest_feed_end_date": "2027-04-01",
+    "last_updated_at": "2026-09-01",
+    "last_published_at": "2026-09-01",
+    "latest_feed_start_date": "2026-10-01",
+    "latest_feed_end_date": "2027-10-01",
     "feed_is_discontinued": false,
     "feed_discontinued_date": ""
   },
@@ -13712,9 +13712,9 @@
       "alert_url": "",
       "update_interval": 0
     },
-    "last_updated_at": "2026-04-01",
-    "last_published_at": "2026-04-01",
-    "latest_feed_start_date": "2026-04-01",
+    "last_updated_at": "2026-09-01",
+    "last_published_at": "2026-09-01",
+    "latest_feed_start_date": "2026-10-01",
     "latest_feed_end_date": "2026-12-29",
     "feed_is_discontinued": false,
     "feed_discontinued_date": ""
@@ -14356,10 +14356,10 @@
       "alert_url": "",
       "update_interval": 0
     },
-    "last_updated_at": "2026-03-09",
-    "last_published_at": "2026-03-09",
-    "latest_feed_start_date": "2026-03-01",
-    "latest_feed_end_date": "2027-04-01",
+    "last_updated_at": "2026-09-01",
+    "last_published_at": "2026-09-01",
+    "latest_feed_start_date": "2026-10-01",
+    "latest_feed_end_date": "2027-10-01",
     "feed_is_discontinued": false,
     "feed_discontinued_date": ""
   },
@@ -14860,8 +14860,8 @@
       "alert_url": "",
       "update_interval": 0
     },
-    "last_updated_at": "2026-02-24",
-    "last_published_at": "2026-02-24",
+    "last_updated_at": "2026-09-01",
+    "last_published_at": "2026-09-01",
     "latest_feed_start_date": "2026-04-01",
     "latest_feed_end_date": "2027-03-31",
     "feed_is_discontinued": false,

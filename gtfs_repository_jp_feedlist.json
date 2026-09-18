@@ -832,9 +832,9 @@
       "alert_url": "",
       "update_interval": 0
     },
-    "last_updated_at": "2026-06-25",
-    "last_published_at": "2026-06-25",
-    "latest_feed_start_date": "2026-05-29",
+    "last_updated_at": "2026-09-18",
+    "last_published_at": "2026-09-18",
+    "latest_feed_start_date": "2026-10-01",
     "latest_feed_end_date": "2027-03-31",
     "feed_is_discontinued": false,
     "feed_discontinued_date": ""
@@ -7748,10 +7748,10 @@
       "alert_url": "",
       "update_interval": 0
     },
-    "last_updated_at": "2026-05-16",
-    "last_published_at": "2026-05-16",
-    "latest_feed_start_date": "2026-04-01",
-    "latest_feed_end_date": "2027-03-31",
+    "last_updated_at": "2026-09-18",
+    "last_published_at": "2026-09-18",
+    "latest_feed_start_date": "2026-10-01",
+    "latest_feed_end_date": "2026-10-14",
     "feed_is_discontinued": false,
     "feed_discontinued_date": ""
   },
@@ -8848,6 +8848,34 @@
     "feed_discontinued_date": ""
   },
   {
+    "organization_id": "kasugaicity",
+    "organization_name": "春日井市",
+    "organization_pref_id": 99,
+    "organization_web_url": "https://www.city.kasugai.lg.jp/",
+    "organization_email": "toshisei@city.kasugai.lg.jp",
+    "feed_id": "kasugaicitybus",
+    "feed_name": "かすがいシティバス",
+    "feed_pref_id": 23,
+    "feed_license": "CC0 1.0",
+    "feed_license_url": "https://creativecommons.org/publicdomain/zero/1.0/deed.ja",
+    "feed_memo": "not_set",
+    "feed_src_gtfs_current_url": "",
+    "feed_src_gtfs_next_url": "",
+    "feed_src_gtfs_web_url": "",
+    "real_time": {
+      "trip_update_url": "",
+      "vehicle_position_url": "",
+      "alert_url": "",
+      "update_interval": 0
+    },
+    "last_updated_at": "2026-09-18",
+    "last_published_at": "2026-09-18",
+    "latest_feed_start_date": "2026-10-01",
+    "latest_feed_end_date": "2027-09-30",
+    "feed_is_discontinued": false,
+    "feed_discontinued_date": ""
+  },
+  {
     "organization_id": "kitanagoyacity",
     "organization_name": "北名古屋市",
     "organization_pref_id": 99,
@@ -9820,9 +9848,9 @@
       "alert_url": "",
       "update_interval": 0
     },
-    "last_updated_at": "2026-02-10",
-    "last_published_at": "2026-02-10",
-    "latest_feed_start_date": "2026-04-01",
+    "last_updated_at": "2026-09-18",
+    "last_published_at": "2026-09-18",
+    "latest_feed_start_date": "2026-10-01",
     "latest_feed_end_date": "2027-03-31",
     "feed_is_discontinued": false,
     "feed_discontinued_date": ""
@@ -10268,10 +10296,10 @@
       "alert_url": "",
       "update_interval": 0
     },
-    "last_updated_at": "2026-03-16",
-    "last_published_at": "2026-03-16",
-    "latest_feed_start_date": "2021-10-01",
-    "latest_feed_end_date": "2026-12-31",
+    "last_updated_at": "2026-09-18",
+    "last_published_at": "2026-09-18",
+    "latest_feed_start_date": "2026-10-01",
+    "latest_feed_end_date": "2027-09-30",
     "feed_is_discontinued": false,
     "feed_discontinued_date": ""
   },
@@ -14766,10 +14794,10 @@
     "feed_pref_id": 39,
     "feed_license": "CC BY 4.0",
     "feed_license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
-    "feed_memo": "not_set",
-    "feed_src_gtfs_current_url": null,
+    "feed_memo": "",
+    "feed_src_gtfs_current_url": "https://api-public.odpt.org/api/v4/files/odpt/TosadenTraffic/Regularbus.zip?date=current",
     "feed_src_gtfs_next_url": null,
-    "feed_src_gtfs_web_url": null,
+    "feed_src_gtfs_web_url": "https://ckan.odpt.org/organization/tosaden_traffic",
     "real_time": {
       "trip_update_url": "",
       "vehicle_position_url": "",

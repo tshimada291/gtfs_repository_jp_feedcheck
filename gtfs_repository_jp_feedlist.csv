@@ -176,7 +176,7 @@ https://www.city.namegata.ibaraki.jp/seikatsu/koukyokoutsu/page013982.html",,,,2
 161,sanjocity,三条市,99,https://www.city.sanjo.niigata.jp/kurashi_tetsuzuki/kotsu/3/6062.html,kankyo@city.sanjo.niigata.jp,guruttosan,三条市循環バスぐるっとさん,15,CC BY 2.1 JP,https://creativecommons.org/licenses/by/2.1/jp/,,,,,2025-11-04,2025-11-04,2025-11-01,2026-03-31,False,,,,,0
 162,tsubamecity,燕市,99,https://www.city.tsubame.niigata.jp/soshiki/toshi_seibi/3/6/12634.html,toshikei@city.tsubame.lg.jp,tsubame_bus,燕市コミュニティバス,15,CC BY 4.0,https://creativecommons.org/licenses/by/4.0/deed.ja,not_set,,,,2026-10-08,2026-10-08,2026-10-06,2027-10-05,False,,,,,0
 163,chitetsu,富山地方鉄道,99,https://www.chitetsu.co.jp/,not_set,chitetsushinaidensha,富山地方鉄道市内電車,16,CC0 1.0,https://creativecommons.org/publicdomain/zero/1.0/deed.ja,,,,,2026-02-27,2026-02-27,2026-03-14,2027-03-13,False,,https://gtfs-rt-files.buscatch.jp/toyama/chitetsu_tram/TripUpdates.pb,https://gtfs-rt-files.buscatch.jp/toyama/chitetsu_tram/VehiclePositions.pb,,0
-164,chitetsu,富山地方鉄道,99,https://www.chitetsu.co.jp/,not_set,chitetsubus,富山地方鉄道バス,16,CC0 1.0,https://creativecommons.org/publicdomain/zero/1.0/deed.ja,,,,,2026-10-01,2026-10-01,2026-10-01,2027-09-30,False,,https://gtfs-rt-files.buscatch.jp/toyama/chitetsu/TripUpdates.pb,https://gtfs-rt-files.buscatch.jp/toyama/chitetsu/VehiclePositions.pb,,20
+164,chitetsu,富山地方鉄道,99,https://www.chitetsu.co.jp/,not_set,chitetsubus,富山地方鉄道バス,16,CC0 1.0,https://creativecommons.org/publicdomain/zero/1.0/deed.ja,,,,,2026-10-16,2026-10-16,2026-10-25,2027-10-24,False,,https://gtfs-rt-files.buscatch.jp/toyama/chitetsu/TripUpdates.pb,https://gtfs-rt-files.buscatch.jp/toyama/chitetsu/VehiclePositions.pb,,20
 165,imizucity,射水市,99,https://www.city.imizu.toyama.jp/guide/svGuideDtl.aspx?servno=640,not_set,imizushi,きときとバス,16,CC0 1.0,https://creativecommons.org/publicdomain/zero/1.0/deed.ja,,,,,2026-03-19,2026-03-19,2026-04-01,2027-03-31,False,,https://gtfs-rt-files.buscatch.jp/toyama/imizu-city/TripUpdates.pb,https://gtfs-rt-files.buscatch.jp/toyama/imizu-city/VehiclePositions.pb,,0
 166,kaetsunou,加越能バス,99,http://www.kaetsunou.co.jp/,not_set,kaetsunousekaiisan,加越能バス（世界遺産バス）,16,CC0 1.0,https://creativecommons.org/publicdomain/zero/1.0/deed.ja,,,,,2026-03-18,2026-03-18,2026-04-01,2027-03-31,False,,https://gtfs-rt-files.buscatch.jp/toyama/kaetsuno_sekaiisan/TripUpdates.pb,https://gtfs-rt-files.buscatch.jp/toyama/kaetsuno_sekaiisan/VehiclePositions.pb,,0
 167,kaetsunou,加越能バス,99,http://www.kaetsunou.co.jp/,not_set,kaetsunouhimi,加越能バス（氷見市街地周遊バス）,16,CC0 1.0,https://creativecommons.org/publicdomain/zero/1.0/deed.ja,,,,,2026-03-18,2026-03-18,2026-04-01,2027-03-31,False,,https://gtfs-rt-files.buscatch.jp/toyama/kaetsuno_himi/TripUpdates.pb,https://gtfs-rt-files.buscatch.jp/toyama/kaetsuno_himi/VehiclePositions.pb,,0
@@ -341,7 +341,7 @@ GTFS-JP3版対応",,,,2026-05-28,2026-05-28,2026-04-01,2027-03-31,False,,,,,0
 286,tajimicity,多治見市,99,https://www.city.tajimi.lg.jp/,tosisei@city.tajimi.lg.jp,kikyobus,ききょうバス,21,CC BY 4.0,https://creativecommons.org/licenses/by/4.0/deed.ja,,,,,2026-10-01,2026-10-01,2026-10-01,2027-09-30,False,,,,,0
 287,takayamacity,高山市,99,https://www.city.takayama.lg.jp/kurashi/1000023/1000126/index.html,gtfsinfo@rosenzu.com,noramaicar,のらマイカー,21,CC BY 4.0,https://creativecommons.org/licenses/by/4.0/deed.ja,"収録路線：のらマイカー全路線　中心部（東線・西線・南線・北線・岩滝線）、上宝、清見、荘川、国府、丹生川地域
 予約制の路線を除く
-GTFS-JP３版対応",,,,2026-08-31,2026-08-31,2026-09-01,2027-03-31,False,,,,,0
+GTFS-JP３版対応",,,,2026-10-16,2026-10-16,2026-11-02,2027-10-31,False,,,,,0
 288,takayamacity,高山市,99,https://www.city.takayama.lg.jp/kurashi/1000023/1000126/index.html,gtfsinfo@rosenzu.com,takanego,たかね号,21,CC BY 4.0,https://creativecommons.org/licenses/by/4.0/deed.ja,"収録路線：たかね号　予約が必要な便・区間は対象外
 GTFS-JP３版対応",,,,2026-03-25,2026-03-25,2026-04-01,2027-03-31,False,,,,,0
 289,tohtetsu,東濃鉄道,99,https://tohtetsu.co.jp/,gtfsinfo@rosenzu.com,tohtetsu_ena,東濃鉄道（東鉄バス）恵那営業所管内,21,CC BY 4.0,https://creativecommons.org/licenses/by/4.0/deed.ja,"収録路線：恵那営業所管内
@@ -382,7 +382,7 @@ GTFS-JP３版対応",,,,2025-12-24,2025-12-24,2025-12-23,2026-12-31,False,,,,,0
 三谷地区支線バス「おおしまくるりんバス」
 大塚地区支線バス「ひめはるくるりんバス」
 西浦地区支線バス「潮風くるりんバス」
-塩津地区支線バス「しおつくるりんバス」",,,,2026-09-05,2026-09-05,2026-09-01,2027-08-31,False,,,,,0
+塩津地区支線バス「しおつくるりんバス」",,,,2026-10-16,2026-10-16,2026-11-24,2027-11-23,False,,,,,0
 315,hekinancity,碧南市,99,https://www.city.hekinan.lg.jp/soshiki/keizai_kankyo/shoko/1_6/index.html,shoukoka@city.hekinan.lg.jp,kurukuru-bus,くるくるバス,23,CC BY 4.0,https://creativecommons.org/licenses/by/4.0/deed.ja,くるくるバス　オレンジコース、パープルコース、みどりコース、あおコース,,,,2026-09-09,2026-09-09,2026-09-30,2027-09-30,False,,,,,0
 316,higashiuratown,東浦町,99,https://www.town.aichi-higashiura.lg.jp/kurashi/doro_kotsu/urara/index.html,machi@town.aichi-higashiura.lg.jp,communitybus,東浦町運行バス　う・ら・ら,23,CC BY 4.0,https://creativecommons.org/licenses/by/4.0/deed.ja,収録路線：う・ら・ら全路線,,,,2026-09-25,2026-09-25,2026-10-01,2027-03-31,False,,,,,0
 317,kariyacity,刈谷市,99,https://www.city.kariya.lg.jp/kurashi/road_park/kotsu/index.html,tokou@city.kariya.lg.jp,communitybus,刈谷市コミュニティバス「かりまる」,23,CC BY 4.0,https://creativecommons.org/licenses/by/4.0/deed.ja,収録路線：かりまる　全路線,,,,2026-06-16,2026-06-16,2026-06-16,2027-06-15,False,,,,,0
@@ -394,7 +394,7 @@ GTFS-JP3版対応",,,,2026-09-16,2026-09-16,2026-10-01,2027-10-31,False,,,,,0
 321,meikaijo,名鉄海上観光船株式会社,99,http://www.meikaijo.co.jp/,gtfsinfo@rosenzu.com,ship,高速船,23,CC BY 4.0,https://creativecommons.org/licenses/by/4.0/deed.ja,収録航路：定期高速船　師崎～日間賀島・篠島、河和～篠島・日間賀島～伊良湖,,,,2026-02-20,2026-02-20,2026-02-20,2027-03-31,False,,,,,0
 322,minamichitatown,南知多町,99,https://www.town.minamichita.lg.jp/kurashi/bus/index.html,gtfsinfo@rosenzu.com,communitybus,南知多町海っ子バス,23,CC BY 4.0,https://creativecommons.org/licenses/by/4.0/deed.ja,"収録路線：海っ子バス（河和駅～内海高校の通学バスを除く）
 GTFS-JP3版対応
-※元日の一部運休には対応しておりません。南知多町WEBサイトにて確認ください。",,,,2026-09-16,2026-09-16,2026-10-01,2027-09-30,False,,,,,0
+※元日の一部運休には対応しておりません。南知多町WEBサイトにて確認ください。",,,,2026-10-16,2026-10-16,2026-10-01,2027-09-30,False,,,,,0
 323,nagakutecity,長久手市,99,https://www.city.nagakute.lg.jp/kurashi_tetsuzuki/kokyokotsu/1/index.html,gtfsinfo@rosenzu.com,communitybus,長久手市N-バス,23,CC BY 4.0,https://creativecommons.org/licenses/by/4.0/deed.ja,"収録路線：N-バス　全路線
 GTFS-JP３版対応",,,,2026-03-05,2026-03-05,2026-03-05,2027-03-31,False,,,,,0
 324,nishiocity,西尾市,99,https://www.city.nishio.aichi.jp/kurashi/kotsu/1001410/1002012.html,kyoudou@city.nishio.lg.jp,meitestu_tobu,名鉄東部交通バス,23,CC0 1.0,https://creativecommons.org/publicdomain/zero/1.0/deed.ja,,,,,2026-09-25,2026-09-25,2026-09-17,2027-09-30,False,,,,,0
@@ -614,7 +614,7 @@ GTFS-JP3版対応",,,,2026-08-28,2026-08-28,2026-08-27,2027-03-31,False,,,,,0
 492,khkhokubu-kotsu,株式会社県交北部交通,99,https://www.khkhokubu.com/,https://www.khkhokubu.com/,GTFS-Hokubutraffic_Localbus,路線バス,39,CC BY 4.0,https://creativecommons.org/licenses/by/4.0/deed.ja,not_set,,,,2026-09-08,2026-09-08,2026-10-01,2027-09-30,False,,,,,0
 493,kitagawavillage,北川村,99,https://www.kitagawamura.jp/life/dtl.php?hdnKey=932,https://www.kitagawamura.jp/life/dtl.php?hdnKey=932,GTFS-Kitagawavill_Bus,北川村営バス,39,CC BY 4.0,https://creativecommons.org/licenses/by/4.0/deed.ja,,,,,2026-03-19,2026-03-19,2026-04-01,2027-03-31,False,,,,,0
 494,kochi-ekimae-kanko,株式会社高知駅前観光,99,https://kochiekimaekanko.jp/,https://kochiekimaekanko.jp/,GTFS-Ekimae_Expressbus,高速バス,39,CC BY 4.0,https://creativecommons.org/licenses/by/4.0/deed.ja,not_set,,,,2026-09-15,2026-09-15,2026-10-01,2026-12-31,False,,,,,0
-495,kochi-ekimae-kanko,株式会社高知駅前観光,99,https://kochiekimaekanko.jp/,https://kochiekimaekanko.jp/,GTFS-Ekimae_Airportbus,空港連絡バス,39,CC BY 4.0,https://creativecommons.org/licenses/by/4.0/deed.ja,not_set,,,,2026-09-24,2026-09-24,2026-10-01,2026-10-31,False,,,,,0
+495,kochi-ekimae-kanko,株式会社高知駅前観光,99,https://kochiekimaekanko.jp/,https://kochiekimaekanko.jp/,GTFS-Ekimae_Airportbus,空港連絡バス,39,CC BY 4.0,https://creativecommons.org/licenses/by/4.0/deed.ja,not_set,,,,2026-10-16,2026-10-16,2026-10-25,2026-10-31,False,,,,,0
 496,kochi-kanko-convention,公益財団法人高知県観光コンベンション協会,99,https://kochi-tabi.jp/lp/my-bus/,https://kochi-tabi.jp/lp/my-bus/,GTFS-KVCA_MY-YUbus,MY遊バス,39,CC BY 4.0,https://creativecommons.org/licenses/by/4.0/deed.ja,not_set,,,,2026-09-25,2026-09-25,2026-10-01,2027-03-31,False,,,,,0
 497,kochi-konancity,香南市,99,https://www.city.kochi-konan.lg.jp/bus/,https://www.city.kochi-konan.lg.jp/bus/,GTFS-Konancity_Bus,香南市営バス,39,CC BY 4.0,https://creativecommons.org/licenses/by/4.0/deed.ja,,,,,2026-06-16,2026-06-16,2026-10-01,2027-10-01,False,,,,,0
 498,kochi-koryo-kotsu,高知高陵交通株式会社,99,http://koryokoutsu.net/,http://koryokoutsu.net/,GTFS-Koryotraffic_Localbus,路線バス,39,CC BY 4.0,https://creativecommons.org/licenses/by/4.0/deed.ja,not_set,,,,2026-09-01,2026-09-01,2026-10-01,2026-12-29,False,,,,,0
